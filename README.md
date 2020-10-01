@@ -1,2 +1,2 @@
 # Projects
-Projects I have built in my journey of learning back-end and front-end development
+Projects I have develope in my journey of learning back-end and front-end development
